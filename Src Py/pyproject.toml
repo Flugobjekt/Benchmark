@@ -1,0 +1,7 @@
+[project]
+name = "speedtest-py"
+version = "0.1.0"
+description = "Prime Sieve Speedtest in Python"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []

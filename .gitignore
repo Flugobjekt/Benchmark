@@ -1,0 +1,35 @@
+# Build directories and caches
+bin/
+obj/
+target/
+.zig-cache/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+tmp_io_test/
+
+# Object and archive files
+*.o
+*.a
+*.so*
+*.dylib
+*.class
+*.jar
+*.exe
+
+# Compiled executable binaries inside subdirectories
+*/*/prime_sieve
+*/*/loop_counter
+*/*/io_bound
+*/*/concurrency
+*/*/memory_churn
+*/*/cold_start
+*/*/network
+*/*/speedtest
+*/*/app
+
+# OS generated files
+.DS_Store
+*.swp
+*~
